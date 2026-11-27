@@ -1,0 +1,517 @@
+[
+  {
+    "nombre": "Absol",
+    "tipo_ataque": "Physical",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Aegislash",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Alcremie",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Armarouge",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Articuno",
+    "tipo_ataque": "Special",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Azumarill",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Blastoise",
+    "tipo_ataque": "Special",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Blaziken",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Blissey",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Buzzwole",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Ceruledge",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Chandelure",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Charizard",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Cinderace",
+    "tipo_ataque": "Physical",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Clefable",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Comfey",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Cramorant",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Crustle",
+    "tipo_ataque": "Physical",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Darkrai",
+    "tipo_ataque": "Special",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Decidueye",
+    "tipo_ataque": "Physical",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Delphox",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Dhelmise",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Dodrio",
+    "tipo_ataque": "Physical",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Dragapult",
+    "tipo_ataque": "Physical",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Dragonite",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Duraludon",
+    "tipo_ataque": "Physical",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Eldegoss",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Empoleon",
+    "tipo_ataque": "Special",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Espeon",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Falinks",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Feraligatr",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Flareon",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Garchomp",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Gardevoir",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Gengar",
+    "tipo_ataque": "Special",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Glaceon",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Goodra",
+    "tipo_ataque": "Special",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Greedent",
+    "tipo_ataque": "Physical",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Greninja",
+    "tipo_ataque": "Physical",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Gyarados",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Ho-Oh",
+    "tipo_ataque": "Physical",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Hoopa",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Inteleon",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Jolteon",
+    "tipo_ataque": "Special",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Lapras",
+    "tipo_ataque": "Special",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Latias",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Latios",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Leafeon",
+    "tipo_ataque": "Physical",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Lucario",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Machamp",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Mamoswine",
+    "tipo_ataque": "Physical",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Mega-Charizard-X",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Mega-Charizard-Y",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Mega-Gyarados",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Mega-Lucario",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Meganium",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Meowscarada",
+    "tipo_ataque": "Physical",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Meowth",
+    "tipo_ataque": "Physical",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Metagross",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Mew",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "MewtwoX",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "MewtwoY",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Mimikyu",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Miraidon",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Moltres",
+    "tipo_ataque": "Special",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Morpeko",
+    "tipo_ataque": "Physical",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Mr.Mime",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Ninetales",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Palkia",
+    "tipo_ataque": "Special",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Pawmot",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Pikachu",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Psyduck",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Quaquaval",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Raichu",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Rapidash",
+    "tipo_ataque": "Special",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Reshiram",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Sableye",
+    "tipo_ataque": "Physical",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Scizor",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Scyther",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Sirfetchd",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Skeledirge",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Slowbro",
+    "tipo_ataque": "Special",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Snorlax",
+    "tipo_ataque": "Physical",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Solgaleo",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Suicune",
+    "tipo_ataque": "Special",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Sylveon",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Talonflame",
+    "tipo_ataque": "Physical",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Tinkaton",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Toxtricity",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Trevenant",
+    "tipo_ataque": "Physical",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Tsareena",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Typhlosion",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Tyranitar",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Umbreon",
+    "tipo_ataque": "Physical",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Urshifu",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Vaporeon",
+    "tipo_ataque": "Special",
+    "rol": "Defender"
+  },
+  {
+    "nombre": "Venusaur",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Wigglytuff",
+    "tipo_ataque": "Special",
+    "rol": "Supporter"
+  },
+  {
+    "nombre": "Yveltal",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Zacian",
+    "tipo_ataque": "Physical",
+    "rol": "All-Rounder"
+  },
+  {
+    "nombre": "Zapdos",
+    "tipo_ataque": "Special",
+    "rol": "Attacker"
+  },
+  {
+    "nombre": "Zeraora",
+    "tipo_ataque": "Physical",
+    "rol": "Speedster"
+  },
+  {
+    "nombre": "Zoroark",
+    "tipo_ataque": "Physical",
+    "rol": "Speedster"
+  }
+]
